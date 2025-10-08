@@ -1,0 +1,51 @@
+% !TEX program = lualatex
+% !TeX TS-program = lualatex
+\documentclass[11pt]{article}
+\usepackage{amsmath}
+\usepackage{../components/commonheader}
+
+
+\begin{document}
+
+
+\subimport{../components/}{background.tex}
+
+\resumesection{\emoji{books} Education}
+
+\subimport{../components/education}{berkeley.tex}
+
+
+\resumesection{\emoji{microscope} Research}
+
+\subimport{../components/}{interest.tex}
+
+
+\resumesection{\emoji{memo} Publications (∗ = Co-first Author)
+}
+
+\subimport{../components/experiences/}{publications.tex}
+
+
+\resumesection{Service}
+
+\subimport{../components/}{service.tex}
+
+
+\resumesection{\emoji{briefcase} Experience}
+
+\subimport{../components/experiences/}{wuhan.tex}
+
+
+\resumesection{\emoji{hand-with-fingers-splayed} Skills}
+
+\subimport{../components/}{skills.tex}
+
+
+\resumesection{\emoji{trophy} Scholarships and Honors}
+
+\subimport{../components/awards/}{honors.tex}
+
+% \resumesection{\emoji{military-medal} Awards}
+
+% \subimport{../components/awards/}{awards.tex}
+\end{document}
