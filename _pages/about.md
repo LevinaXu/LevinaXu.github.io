@@ -498,7 +498,7 @@ Graph Representation Learning as Policy Optimization from Implicit Preferences
 
 <dl>
   <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/latent.png">
+hspace="10" wspace="20" src="../images/Latent.png">
 <span class="conference-label">ACL ARR 2025</span>
 </dt>
   <dd><a href=""><strong> 
