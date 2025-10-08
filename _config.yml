@@ -2,6 +2,7 @@
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
@@ -9,14 +10,55 @@ title                    : "Levina Li's Homepage"
 description              : "levinali [at] g.ucla.edu"
 repository               : "LevinaXu/LevinaXu.github.io"
 google_scholar_stats_use_cdn : true
-url                      : "https://levinaxu.github.io"
-baseurl                  : ""
 
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
-{{ ... }}
+# SEO Related
+google_site_verification : googlead3b4bda69a24e86.html # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+
+# Site Author
+author:
+  name             : "Levina Li"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "UCLA Undergraduate"
+  location         :
+  employer         :
+  pubmed           :
+  googlescholar    : ""
+  email            : "levinali@g.ucla.edu"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri              : 
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "LevinaXu"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : "levina-li-0a1a10221" # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : # e.g., "https://orcid.org/xxxx"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 
 encoding: utf-8
 
@@ -31,7 +73,24 @@ exclude:
   - google_scholar_crawler
   - 65392e6cf1fb621f0b5735a9
   - "*.sublime-project"
-{{ ... }}
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .github
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
@@ -40,17 +99,12 @@ exclude:
 keep_files:
   - .git
   - .svn
-  
-collections:
-  pages:
-    output: true
-    permalink: "/:path/"
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-{{ ... }}
+markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
