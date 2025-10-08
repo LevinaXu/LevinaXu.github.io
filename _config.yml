@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guancheng Wan's Homepage"
-description              : "gcwan03 [at] ucla.edu"
-repository               : "GuanchengWan/guanchengWan.github.io"
+title                    : "Levina Li's Homepage"
+description              : "levinali [at] g.ucla.edu"
+repository               : "LevinaXu/LevinaXu.github.io"
 google_scholar_stats_use_cdn : true
 
 
@@ -39,7 +39,7 @@ author:
   facebook         :
   foursquare       :
   github           : "LevinaXu"
-  google_plus      : 1
+  google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
@@ -54,7 +54,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : 1
+  weibo            :
   xing             :
   youtube          :
   wikipedia        :

@@ -304,9 +304,11 @@ href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
 My current research interests focus on these key areas: 
 
 
-a) Large Language Models (LLM), LLM Agentic Systems, LLM Multi-Agent System,  Large Reasoning Models, 
+a) Large Language Models (LLM), LLM Agentic Systems, LLM Multi-Agent System,  Large Reasoning Models
 
-b) AI for Science/Healthcare/Finance
+b) AI for Science/Healthcare
+
+c) AI for Finance
 
 
 
@@ -443,6 +445,43 @@ GTD: Dynamic Generation of Multi LLM Agents Communication Topologies with Graph 
 
 
 
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/RAAS.png">
+<span class="conference-label">ArXiv 2025</span>
+</dt>
+  <dd><a href=""><strong> 
+RAAS: LLM Agentic System Architecture Search with GRPO
+</strong></a></dd>
+<dd><strong>Mengting Li&dagger;</strong> Jiayi Yang&dagger;, Guancheng Wan&dagger;, , Wenke Huang, Jinhe Bi, Han Zhang, Eric Hanchen Jiang, Yizhou Sun, Wei Wang</dd>
+<dd> Underview, 2025 </dd>
+</dl>
+
+<hr>
+
+
+
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/LENS.png">
+<span class="conference-label">ArXiv 2025</span>
+</dt>
+  <dd><a href=""><strong> 
+LENS: Learning Architecture Navigator for LLM Agentic Systems
+</strong></a></dd>
+<dd>Guancheng Wan, Jiayi Yang, <strong>Mengting Li</strong>, Eric Hanchen Jiang, Haixin Wang, Hui Yi Leong, Yizhou Sun, Wei Wang</dd>
+<dd> Underview, 2025</dd>
+</dl>
+
+
+<hr>
+
+
+
+
+
+
+
 <br/>
 
 # 🎖 Scholarships and Honors
@@ -539,10 +578,13 @@ GTD: Dynamic Generation of Multi LLM Agents Communication Topologies with Graph 
 
 <dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
 
+
+
+<!-- 
 # 🏀 Miscellaneous
 
 ### 📖 Poems that Inspire Me
 
 - **白鹭立雪，愚者看鹭，聪者观雪，智者见白** —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.
 - **世界不黑也不白, 而是一道精致的灰** —— The world is neither black nor white, but a delicate shade of gray.
-- **风吹到哪页，读哪页** —— The wind blows to which page, read which page.
+- **风吹到哪页，读哪页** —— The wind blows to which page, read which page. -->
