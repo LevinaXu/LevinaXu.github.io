@@ -429,13 +429,13 @@ hspace="10" wspace="20" src="../images/TARE.png">
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/GTD.png">
-<span class="conference-label">ArXiv 2025</span>
+<span class="conference-label">Submission 2025</span>
 </dt>
   <dd><a href=""><strong>	
 GTD: Dynamic Generation of Multi LLM Agents Communication Topologies with Graph Diffusion Models
 </strong></a></dd>
 <dd><strong>Mengting Li&dagger;</strong>, Eric Hanchen Jiang&dagger;, Guancheng Wan&dagger;, Sophia Yin&dagger;,  Yuchen Wu, Xiao Liang, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu</dd>
-<dd> Underview, 2025</dd>
+<dd> Submitted to ICLR, 2025</dd>
 </dl>
 
 
@@ -448,29 +448,30 @@ GTD: Dynamic Generation of Multi LLM Agents Communication Topologies with Graph 
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/RAAS.png">
-<span class="conference-label">ArXiv 2025</span>
+<span class="conference-label">Submission 2025</span>
 </dt>
   <dd><a href=""><strong> 
 RAAS: LLM Agentic System Architecture Search with GRPO
 </strong></a></dd>
 <dd><strong>Mengting Li&dagger;</strong> Jiayi Yang&dagger;, Guancheng Wan&dagger;, , Wenke Huang, Jinhe Bi, Han Zhang, Eric Hanchen Jiang, Yizhou Sun, Wei Wang</dd>
-<dd> Underview, 2025 </dd>
+<dd> Submitted to ACL Rolling Review, 2025 </dd>
 </dl>
 
 <hr>
+
 
 
 
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/LENS.png">
-<span class="conference-label">ArXiv 2025</span>
+<span class="conference-label">Submission 2025</span>
 </dt>
   <dd><a href=""><strong> 
 LENS: Learning Architecture Navigator for LLM Agentic Systems
 </strong></a></dd>
 <dd>Guancheng Wan, Jiayi Yang, <strong>Mengting Li</strong>, Eric Hanchen Jiang, Haixin Wang, Hui Yi Leong, Yizhou Sun, Wei Wang</dd>
-<dd> Underview, 2025</dd>
+<dd> Submitted to ACL Rolling Review, 2025</dd>
 </dl>
 
 
@@ -479,9 +480,42 @@ LENS: Learning Architecture Navigator for LLM Agentic Systems
 
 <dl>
   <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/speech.jpg">
-<span class="conference-label">Interspeech 2026 (Submitted)</span>
+hspace="10" wspace="20" src="../images/Graph.png">
+<span class="conference-label">Submission 2025</span>
 </dt>
+  <dd><a href=""><strong> 
+Graph Representation Learning as Policy Optimization from Implicit Preferences
+</strong></a></dd>
+<dd>Chunhe Wang, Eric Hanchen Jiang, Guancheng Wan, Jingbang Chen, Zitong Shi, Andrew Lizarraga, <strong>Mengting Li</strong>, Wenxiao Zhao, Maggie Cheng, Ying Nian Wu</dd>
+<dd> Submitted to AAAI, 2026</dd>
+</dl>
+
+
+<hr>
+
+
+
+
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/latent.png">
+<span class="conference-label">ACL ARR 2025</span>
+</dt>
+  <dd><a href=""><strong> 
+Optimizing Strategy, Not Scripts: Latent Plan Control for LLM Agents
+</strong></a></dd>
+<dd>Eric Hanchen Jiang, Xuanang Li, Xiaoran Shang, Guancheng Wan, Hengli Li, <strong>Mengting Li</strong>, Zhaolu Kang, Xinfeng Li, Ying Nian Wu</dd>
+<dd>Submitted to ACL Rolling Review, 2025</dd>
+</dl>
+
+
+<hr>
+
+
+
+
+
+<dl>
   <dd><a href=""><strong> 
 Attention-Based BiLSTM Framework for Speech Emotion Recognition Using MFCCs and Interpretability via NAOPC and Attention Weights
 </strong></a></dd>
@@ -494,10 +528,6 @@ Attention-Based BiLSTM Framework for Speech Emotion Recognition Using MFCCs and 
 
 
 <dl>
-  <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/Cedars-.png">
-<span class="conference-label">Internal Report 2025</span>
-</dt>
   <dd><a href=""><strong> 
 AI-Driven Analysis of Mental Health Outcomes Using Cedars-Sinai Patient Data
 </strong></a></dd>
