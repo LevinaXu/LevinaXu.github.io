@@ -304,11 +304,10 @@ href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
 My current research interests focus on these key areas: 
 
 
-a) Large Language Models (LLM), LLM Agentic Systems, LLM Multi-Agent System,  Large Reasoning Models
+a) Large Language Models (LLM), LLM Agent, LLM Agentic Systems,  Large Reasoning Models
 
 b) AI for Science/Healthcare
 
-c) AI for Finance
 
 
 
@@ -480,7 +479,7 @@ LENS: Learning Architecture Navigator for LLM Agentic Systems
 
 <dl>
   <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/Graph.png">
+hspace="10" wspace="20" src="../images/DPOG.png">
 <span class="conference-label">Submission 2025</span>
 </dt>
   <dd><a href=""><strong> 
@@ -499,7 +498,7 @@ Graph Representation Learning as Policy Optimization from Implicit Preferences
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/Latent.png">
-<span class="conference-label">ACL ARR 2025</span>
+<span class="conference-label">Submission 2025</span>
 </dt>
   <dd><a href=""><strong> 
 Optimizing Strategy, Not Scripts: Latent Plan Control for LLM Agents
