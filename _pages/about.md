@@ -485,7 +485,7 @@ hspace="10" wspace="20" src="../images/speech.jpg">
   <dd><a href=""><strong> 
 Attention-Based BiLSTM Framework for Speech Emotion Recognition Using MFCCs and Interpretability via NAOPC and Attention Weights
 </strong></a></dd>
-<dd>Mengting Li</dd>
+<dd><strong>Mengting Li</strong></dd>
 <dd> Submitted to Interspeech 2026</dd>
 </dl>
 
@@ -501,7 +501,7 @@ hspace="10" wspace="20" src="../images/Cedars-.png">
   <dd><a href=""><strong> 
 AI-Driven Analysis of Mental Health Outcomes Using Cedars-Sinai Patient Data
 </strong></a></dd>
-<dd>Mengting Li</dd>
+<dd><strong>Mengting Li</strong></dd>
 <dd> Internal research report at Cedars-Sinai Clinical Research Team, 2025</dd>
 </dl>
 
