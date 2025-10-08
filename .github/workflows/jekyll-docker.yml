@@ -31,6 +31,8 @@ jobs:
           jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
 
   deploy:
     environment:
