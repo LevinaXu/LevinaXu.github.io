@@ -477,6 +477,38 @@ LENS: Learning Architecture Navigator for LLM Agentic Systems
 <hr>
 
 
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/speech.jpg">
+<span class="conference-label">Interspeech 2026 (Submitted)</span>
+</dt>
+  <dd><a href=""><strong> 
+Attention-Based BiLSTM Framework for Speech Emotion Recognition Using MFCCs and Interpretability via NAOPC and Attention Weights
+</strong></a></dd>
+<dd>Mengting Li</dd>
+<dd> Submitted to Interspeech 2026</dd>
+</dl>
+
+
+<hr>
+
+
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/Cedars-.png">
+<span class="conference-label">Internal Report 2025</span>
+</dt>
+  <dd><a href=""><strong> 
+AI-Driven Analysis of Mental Health Outcomes Using Cedars-Sinai Patient Data
+</strong></a></dd>
+<dd>Mengting Li</dd>
+<dd> Internal research report at Cedars-Sinai Clinical Research Team, 2025</dd>
+</dl>
+
+
+<hr>
+
+
 
 
 
