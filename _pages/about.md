@@ -580,11 +580,11 @@ LENS: Learning Architecture Navigator for LLM Agentic Systems
 
 
 
-<!-- 
-# 🏀 Miscellaneous
+
+# 🐰 Miscellaneous
 
 ### 📖 Poems that Inspire Me
 
 - **白鹭立雪，愚者看鹭，聪者观雪，智者见白** —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.
 - **世界不黑也不白, 而是一道精致的灰** —— The world is neither black nor white, but a delicate shade of gray.
-- **风吹到哪页，读哪页** —— The wind blows to which page, read which page. -->
+- **风吹到哪页，读哪页** —— The wind blows to which page, read which page. 
