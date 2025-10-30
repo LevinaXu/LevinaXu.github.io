@@ -274,7 +274,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My name is Levina Mengting Li, a senior student at University of California, Los Angeles ([UCLA](https://www.ucla.edu/)), while I’m doing research supervised by [Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ), [Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ)  and [Ying Nian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=zh-CN&oi=ao).
+My name is Levina Mengting Li, a senior student at University of California, Los Angeles ([UCLA](https://www.ucla.edu/)), while I’m doing research supervised by [Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=zh-CN)  and [Ying Nian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=zh-CN&oi=ao), working closely with [Eric Hanchen Jiang](https://ericjiang18.github.io/).
 
 
 
@@ -428,9 +428,8 @@ hspace="10" wspace="20" src="../images/TARE.png">
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/GTD.png">
-<span class="conference-label">Submission 2025</span>
 </dt>
-  <dd><a href=""><strong>	
+  <dd><a href="https://arxiv.org/abs/2510.07799"><strong>	
 GTD: Dynamic Generation of Multi LLM Agents Communication Topologies with Graph Diffusion Models
 </strong></a></dd>
 <dd><strong>Mengting Li&dagger;</strong>, Eric Hanchen Jiang&dagger;, Guancheng Wan&dagger;, Sophia Yin&dagger;,  Yuchen Wu, Xiao Liang, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu</dd>
@@ -447,12 +446,12 @@ GTD: Dynamic Generation of Multi LLM Agents Communication Topologies with Graph 
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/RAAS.png">
-<span class="conference-label">Submission 2025</span>
+
 </dt>
   <dd><a href=""><strong> 
 RAAS: LLM Agentic System Architecture Search with GRPO
 </strong></a></dd>
-<dd><strong>Mengting Li&dagger;</strong> Jiayi Yang&dagger;, Guancheng Wan&dagger;, , Wenke Huang, Jinhe Bi, Han Zhang, Eric Hanchen Jiang, Yizhou Sun, Wei Wang</dd>
+<dd><strong>Mengting Li&dagger;</strong> Jiayi Yang&dagger;, Guancheng Wan&dagger;, Wenke Huang, Jinhe Bi, Han Zhang, Eric Hanchen Jiang, Yizhou Sun, Wei Wang</dd>
 <dd> Submitted to ACL Rolling Review, 2025 </dd>
 </dl>
 
@@ -464,7 +463,7 @@ RAAS: LLM Agentic System Architecture Search with GRPO
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/LENS.png">
-<span class="conference-label">Submission 2025</span>
+
 </dt>
   <dd><a href=""><strong> 
 LENS: Learning Architecture Navigator for LLM Agentic Systems
@@ -480,7 +479,7 @@ LENS: Learning Architecture Navigator for LLM Agentic Systems
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/DPOG.png">
-<span class="conference-label">Submission 2025</span>
+
 </dt>
   <dd><a href=""><strong> 
 Graph Representation Learning as Policy Optimization from Implicit Preferences
@@ -584,13 +583,13 @@ AI-Driven Analysis of Mental Health Outcomes Using Cedars-Sinai Patient Data
 <div class="experience-card">
   <div class="experience-info">
     <div class="experience-title">
-      <a href="https://ucla-dm.github.io/DM_website/">UCLA Data Mining Lab</a> & <a href="http://web.cs.ucla.edu/~weiwang/">ScAI Lab</a>, University of California, Los Angeles
+    <a href="https://web.cs.ucla.edu/~kwchang/">UCLA NLP Group</a>, University of California, Los Angeles
     </div>
     <div class="experience-role">Research Assistant, 2025</div>
-    <div class="experience-topics">Topics: LLM, LLM Agents, Ai4Science</div>
+    <div class="experience-topics">Topics: LLM, LLM Agents</div>
   </div>
   <div class="experience-logo">
-    <img src="../images/ScAi.jpg" alt="ScAi Logo" />
+    <img src="../images/uclanlp.png" alt="ScAi Logo" />
   </div>
 </div>
 
@@ -641,11 +640,11 @@ AI-Driven Analysis of Mental Health Outcomes Using Cedars-Sinai Patient Data
 
 
 
-
+<!-- 
 # 🐰 Miscellaneous
 
 ### 📖 Poems that Inspire Me
 
 - **白鹭立雪，愚者看鹭，聪者观雪，智者见白** —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.
 - **世界不黑也不白, 而是一道精致的灰** —— The world is neither black nor white, but a delicate shade of gray.
-- **风吹到哪页，读哪页** —— The wind blows to which page, read which page. 
+- **风吹到哪页，读哪页** —— The wind blows to which page, read which page.  -->
