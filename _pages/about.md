@@ -468,7 +468,7 @@ hspace="10" wspace="20" src="../images/LENS.png">
   <dd><a href=""><strong> 
 LENS: Learning Architecture Navigator for LLM Agentic Systems
 </strong></a></dd>
-<dd>Guancheng Wan, Jiayi Yang, <strong>Mengting Li</strong>, Eric Hanchen Jiang, Haixin Wang, Hui Yi Leong, Yizhou Sun, Wei Wang</dd>
+<dd><strong>Mengting Li&dagger;</strong>, Guancheng Wan&dagger;, Jiayi Yang&dagger;, Eric Hanchen Jiang, Haixin Wang, Hui Yi Leong, Yizhou Sun, Wei Wang</dd>
 <dd> Submitted to ACL Rolling Review, 2025</dd>
 </dl>
 
@@ -497,7 +497,6 @@ Graph Representation Learning as Policy Optimization from Implicit Preferences
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/Latent.png">
-<span class="conference-label">Submission 2025</span>
 </dt>
   <dd><a href=""><strong> 
 Optimizing Strategy, Not Scripts: Latent Plan Control for LLM Agents
