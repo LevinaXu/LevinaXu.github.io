@@ -442,6 +442,23 @@ GTD: Dynamic Generation of Multi LLM Agents Communication Topologies with Graph 
 
 
 
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/LENS.png">
+
+</dt>
+  <dd><a href=""><strong> 
+LENS: Learning Architecture Navigator for LLM Agentic Systems
+</strong></a></dd>
+<dd><strong>Mengting Li&dagger;</strong>, Guancheng Wan&dagger;, Jiayi Yang&dagger;, Eric Hanchen Jiang, Haixin Wang, Hui Yi Leong, Yizhou Sun, Wei Wang</dd>
+<dd> Accepted to <strong>AAAI 2026</strong> @ Foundations of Agentic Systems Theory</dd>
+<dd>Submitted to ACL Rolling Review, 2025</dd>
+</dl>
+
+
+<hr>
+
+
 
 <dl>
   <dt><img align="left" width="100"
@@ -459,19 +476,36 @@ RAAS: LLM Agentic System Architecture Search with GRPO
 
 
 
-
 <dl>
   <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/LENS.png">
+hspace="10" wspace="20" src="../images/DLA.png">
 
 </dt>
   <dd><a href=""><strong> 
-LENS: Learning Architecture Navigator for LLM Agentic Systems
+RAAS: LLM Agentic System Architecture Search with GRPO
 </strong></a></dd>
-<dd><strong>Mengting Li&dagger;</strong>, Guancheng Wan&dagger;, Jiayi Yang&dagger;, Eric Hanchen Jiang, Haixin Wang, Hui Yi Leong, Yizhou Sun, Wei Wang</dd>
-<dd> Submitted to ACL Rolling Review, 2025</dd>
+<dd><strong>Mengting Li&dagger;</strong> Guancheng Wan&dagger;, Leixin Sun&dagger;, </dd>
+<dd>Accepted to <strong>NeurIPS 2025</strong> @ Socially Responsible and Trustworthy Foundation Models</dd>
+<dd>Submitted to ICLR, 2026 </dd>
 </dl>
 
+<hr>
+
+
+
+
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/TARE.png">
+
+</dt>
+  <dd><a href=""><strong> 
+Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE
+</strong></a></dd>
+<dd><strong>Mengting Li&dagger;</strong> Guancheng Wan&dagger;, Lucheng Fu&dagger;, </dd>
+<dd>Accepted to <strong>NeurIPS 2025</strong> @ NORA: The First Workshop on Knowledge Graphs & Agentic Systems Interplay</dd>
+<dd>Submitted to ICLR, 2026 </dd>
+</dl>
 
 <hr>
 
@@ -627,8 +661,7 @@ AI-Driven Analysis of Mental Health Outcomes Using Cedars-Sinai Patient Data
     </div>
     <div class="experience-role">Machine Learning Researcher (Intern), 2023.07 - 2023.08</div>
     <div class="experience-topics">Topics: RF, LR, XGBoost; Benchmarking</div>
-    <div class="experience-topics">Highlights: Directed a 4-person data science team; +15% predictive accuracy; +10% model efficiency</div>
-    <div class="experience-topics">Skills: Python, Statistics, Communication</div>
+    <div class="experience-topics">Highlights: Directed a 4-person data science team</div>
   </div>
   <div class="experience-logo">
     <img src="../images/MIT.png" alt="MIT Logo" />
