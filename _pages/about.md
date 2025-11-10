@@ -482,9 +482,9 @@ hspace="10" wspace="20" src="../images/DLA.png">
 
 </dt>
   <dd><a href=""><strong> 
-RAAS: LLM Agentic System Architecture Search with GRPO
+Diagnose, Localize, Align: A Full-Stack Framework for Reliable LLM Multi-Agent Systems under Instruction Conflicts
 </strong></a></dd>
-<dd><strong>Mengting Li&dagger;</strong> Guancheng Wan&dagger;, Leixin Sun&dagger;, </dd>
+<dd><strong>Mengting Li&dagger;</strong> Guancheng Wan&dagger;, Leixin Sun&dagger; </dd>
 <dd>Accepted to <strong>NeurIPS 2025</strong> @ Socially Responsible and Trustworthy Foundation Models</dd>
 <dd>Submitted to ICLR, 2026 </dd>
 </dl>
@@ -502,7 +502,7 @@ hspace="10" wspace="20" src="../images/TARE.png">
   <dd><a href=""><strong> 
 Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE
 </strong></a></dd>
-<dd><strong>Mengting Li&dagger;</strong> Guancheng Wan&dagger;, Lucheng Fu&dagger;, </dd>
+<dd><strong>Mengting Li&dagger;</strong> Guancheng Wan&dagger;, Lucheng Fu&dagger; </dd>
 <dd>Accepted to <strong>NeurIPS 2025</strong> @ NORA: The First Workshop on Knowledge Graphs & Agentic Systems Interplay</dd>
 <dd>Submitted to ICLR, 2026 </dd>
 </dl>
