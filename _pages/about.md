@@ -452,6 +452,7 @@ LENS: Learning Architecture Navigator for LLM Agentic Systems
 </strong></a></dd>
 <dd><strong>Mengting Li&dagger;</strong>, Guancheng Wan&dagger;, Jiayi Yang&dagger;, Eric Hanchen Jiang, Haixin Wang, Hui Yi Leong, Yizhou Sun, Wei Wang</dd>
 <dd> Accepted to <strong>AAAI 2026</strong> @ Foundations of Agentic Systems Theory</dd>
+<dd>Accepted to <strong>AAAI 2026</strong> @ Agentic AI Benchmarks and Applications for Enterprise Tasks</dd>
 <dd>Submitted to ACL Rolling Review, 2025</dd>
 </dl>
 
@@ -468,8 +469,9 @@ hspace="10" wspace="20" src="../images/RAAS.png">
   <dd><a href=""><strong> 
 RAAS: LLM Agentic System Architecture Search with GRPO
 </strong></a></dd>
-<dd><strong>Mengting Li&dagger;</strong> Jiayi Yang&dagger;, Guancheng Wan&dagger;, Wenke Huang, Jinhe Bi, Han Zhang, Eric Hanchen Jiang, Yizhou Sun, Wei Wang</dd>
-<dd> Submitted to ACL Rolling Review, 2025 </dd>
+<dd><strong>Mengting Li&dagger;</strong>, Jiayi Yang&dagger;, Guancheng Wan&dagger;, Wenke Huang, Jinhe Bi, Han Zhang, Eric Hanchen Jiang, Yizhou Sun, Wei Wang</dd>
+<dd>Accepted to <strong>AAAI 2026</strong> @ Agentic AI Benchmarks and Applications for Enterprise Tasks</dd>
+<dd>Submitted to ACL Rolling Review, 2025 </dd>
 </dl>
 
 <hr>
@@ -484,8 +486,9 @@ hspace="10" wspace="20" src="../images/DLA.png">
   <dd><a href=""><strong> 
 Diagnose, Localize, Align: A Full-Stack Framework for Reliable LLM Multi-Agent Systems under Instruction Conflicts
 </strong></a></dd>
-<dd><strong>Mengting Li&dagger;</strong> Guancheng Wan&dagger;, Leixin Sun&dagger; </dd>
-<dd>Accepted to <strong>NeurIPS 2025</strong> @ Socially Responsible and Trustworthy Foundation Models</dd>
+<dd><strong>Mengting Li&dagger;</strong>, Guancheng Wan&dagger;, Leixin Sun&dagger; </dd>
+<dd>Accepted to <strong> 2025</strong> @ Socially Responsible and Trustworthy Foundation Models</dd>
+<dd>Accepted to <strong>NeurIPS 2025</strong> @ LLM Persona Modeling</dd>
 <dd>Submitted to ICLR, 2026 </dd>
 </dl>
 
@@ -502,7 +505,7 @@ hspace="10" wspace="20" src="../images/TARE.png">
   <dd><a href=""><strong> 
 Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE
 </strong></a></dd>
-<dd><strong>Mengting Li&dagger;</strong> Guancheng Wan&dagger;, Lucheng Fu&dagger; </dd>
+<dd><strong>Mengting Li&dagger;</strong>, Guancheng Wan&dagger;, Lucheng Fu&dagger; </dd>
 <dd>Accepted to <strong>NeurIPS 2025</strong> @ NORA: The First Workshop on Knowledge Graphs & Agentic Systems Interplay</dd>
 <dd>Submitted to ICLR, 2026 </dd>
 </dl>
