@@ -447,13 +447,25 @@ GTD: Dynamic Generation of Multi LLM Agents Communication Topologies with Graph 
 hspace="10" wspace="20" src="../images/LENS.png">
 
 </dt>
-  <dd><a href=""><strong> 
-LENS: Learning Architecture Navigator for LLM Agentic Systems
-</strong></a></dd>
-<dd><strong>Mengting Li&dagger;</strong>, Guancheng Wan&dagger;, Jiayi Yang&dagger;, Eric Hanchen Jiang, Haixin Wang, Hui Yi Leong, Yizhou Sun, Wei Wang</dd>
-<dd> Accepted to <strong>AAAI 2026</strong> @ Foundations of Agentic Systems Theory</dd>
-<dd>Accepted to <strong>AAAI 2026</strong> @ Agentic AI Benchmarks and Applications for Enterprise Tasks</dd>
-<dd>Submitted to ACL Rolling Review, 2025</dd>
+<dd>
+  <a href="https://openreview.net/forum?id=KcBKABh9eY&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FWorkshop%2FAABA4ET%2FAuthors%23your-submissions)" target="_blank" rel="noopener noreferrer">
+    <strong>LENS: Learning Architecture Navigator for LLM Agentic Systems</strong>
+  </a>
+</dd>
+<dd>
+  <strong>Mengting Li&dagger;, Guancheng Wan&dagger;, Jiayi Yang&dagger;, Eric Hanchen Jiang, Haixin Wang, Hui Yi Leong, Yizhou Sun, Wei Wang</strong>
+</dd>
+<dd>
+  Accepted to <strong>AAAI 2026</strong> @ Foundations of Agentic Systems Theory
+</dd>
+<dd>
+  Accepted to <strong>AAAI 2026</strong> @ Personalization in the Era of Large Foundation Models
+</dd>
+
+<dd>
+  Submitted to ACL Rolling Review, 2025
+</dd>
+
 </dl>
 
 
@@ -466,12 +478,23 @@ LENS: Learning Architecture Navigator for LLM Agentic Systems
 hspace="10" wspace="20" src="../images/RAAS.png">
 
 </dt>
-  <dd><a href=""><strong> 
-RAAS: LLM Agentic System Architecture Search with GRPO
-</strong></a></dd>
-<dd><strong>Mengting Li&dagger;</strong>, Jiayi Yang&dagger;, Guancheng Wan&dagger;, Wenke Huang, Jinhe Bi, Han Zhang, Eric Hanchen Jiang, Yizhou Sun, Wei Wang</dd>
-<dd>Accepted to <strong>AAAI 2026</strong> @ Agentic AI Benchmarks and Applications for Enterprise Tasks</dd>
-<dd>Submitted to ACL Rolling Review, 2025 </dd>
+<dd>
+  <a href="https://openreview.net/forum?id=swDl4wdwix&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FWorkshop%2FAABA4ET%2FAuthors%23your-submissions)" target="_blank" rel="noopener noreferrer">
+    <strong>
+      RAAS: LLM Agentic System Architecture Search with GRPO
+    </strong>
+  </a>
+</dd>
+<dd>
+  <strong>Mengting Li&dagger;</strong>, Jiayi Yang&dagger;, Guancheng Wan&dagger;, Wenke Huang, Jinhe Bi, Han Zhang, Eric Hanchen Jiang, Yizhou Sun, Wei Wang
+</dd>
+<dd>
+  Accepted to <strong>AAAI 2026</strong> @ Agentic AI Benchmarks and Applications for Enterprise Tasks
+</dd>
+<dd>
+  Submitted to ACL Rolling Review, 2025
+</dd>
+
 </dl>
 
 <hr>
@@ -483,13 +506,27 @@ RAAS: LLM Agentic System Architecture Search with GRPO
 hspace="10" wspace="20" src="../images/DLA.png">
 
 </dt>
-  <dd><a href=""><strong> 
-Diagnose, Localize, Align: A Full-Stack Framework for Reliable LLM Multi-Agent Systems under Instruction Conflicts
-</strong></a></dd>
-<dd><strong>Mengting Li&dagger;</strong>, Guancheng Wan&dagger;, Leixin Sun&dagger; </dd>
-<dd>Accepted to <strong>NeurIPS 2025</strong> @ Socially Responsible and Trustworthy Foundation Models</dd>
-<dd>Accepted to <strong>NeurIPS 2025</strong> @ LLM Persona Modeling</dd>
-<dd>Submitted to ICLR, 2026 </dd>
+<dd>
+  <a href="https://openreview.net/forum?id=qim5DHTCy4&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FWorkshop%2FAABA4ET%2FAuthors%23your-submissions)" target="_blank" rel="noopener noreferrer">
+    <strong>
+      Diagnose, Localize, Align: A Full-Stack Framework for Reliable LLM Multi-Agent Systems under Instruction Conflicts
+    </strong>
+  </a>
+</dd>
+<dd>
+  <strong>Mengting Li&dagger;</strong>, Guancheng Wan&dagger;, Leixin Sun&dagger;
+</dd>
+<dd>
+  Accepted to <strong>NeurIPS 2025</strong> @ Socially Responsible and Trustworthy Foundation Models
+</dd>
+<dd>
+  Accepted to <strong>NeurIPS 2025</strong> @ LLM Persona Modeling
+</dd>
+
+<dd>
+  Submitted to ICLR, 2026
+</dd>
+
 </dl>
 
 <hr>
@@ -602,7 +639,7 @@ AI-Driven Analysis of Mental Health Outcomes Using Cedars-Sinai Patient Data
 <div class="education-card">
   <div class="education-info">
     <div class="education-title">
-      <strong>2022.09 - Now</strong><br/>
+      <strong>Expected Graduation: Winter 2026</strong><br/>
       Undergraduate, Statistics & Data Science, University of California, Los Angeles (UCLA)
     </div>
   </div>
