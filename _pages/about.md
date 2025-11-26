@@ -487,7 +487,7 @@ hspace="10" wspace="20" src="../images/DLA.png">
 Diagnose, Localize, Align: A Full-Stack Framework for Reliable LLM Multi-Agent Systems under Instruction Conflicts
 </strong></a></dd>
 <dd><strong>Mengting Li&dagger;</strong>, Guancheng Wan&dagger;, Leixin Sun&dagger; </dd>
-<dd>Accepted to <strong> 2025</strong> @ Socially Responsible and Trustworthy Foundation Models</dd>
+<dd>Accepted to <strong>NeurIPS 2025</strong> @ Socially Responsible and Trustworthy Foundation Models</dd>
 <dd>Accepted to <strong>NeurIPS 2025</strong> @ LLM Persona Modeling</dd>
 <dd>Submitted to ICLR, 2026 </dd>
 </dl>
