@@ -433,7 +433,7 @@ hspace="10" wspace="20" src="../images/GTD.png">
 GTD: Dynamic Generation of Multi LLM Agents Communication Topologies with Graph Diffusion Models
 </strong></a></dd>
 <dd>Eric Hanchen Jiang&dagger;, <strong>Mengting Li&dagger;</strong>, Guancheng Wan;, Sophia Yin;,  Yuchen Wu, Xiao Liang, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu</dd>
-<dd> Accepted to ACL ARR, 2026</dd>
+<dd> Accepted to <strong>ACL ARR</strong>, 2026</dd>
 </dl>
 
 
@@ -444,27 +444,21 @@ GTD: Dynamic Generation of Multi LLM Agents Communication Topologies with Graph 
 
 <dl>
   <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/LENS.png">
+hspace="10" wspace="20" src="../images/q-mix.png">
 
 </dt>
 <dd>
-  <a href="https://openreview.net/forum?id=KcBKABh9eY&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FWorkshop%2FAABA4ET%2FAuthors%23your-submissions)" target="_blank" rel="noopener noreferrer">
-    <strong>LENS: Learning Architecture Navigator for LLM Agentic Systems</strong>
+  <a href="https://arxiv.org/abs/2604.00344" target="_blank" rel="noopener noreferrer">
+    <strong>Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning</strong>
   </a>
 </dd>
 <dd>
-  <strong>Mengting Li&dagger;, Guancheng Wan&dagger;, Jiayi Yang&dagger;, Eric Hanchen Jiang, Haixin Wang, Hui Yi Leong, Yizhou Sun, Wei Wang</strong>
+  Eric Hanchen Jiang&dagger;, <strong>Levina Li&dagger;</strong>, Rui Sun, Xiao Liang, Yubei Li, Yuchen Wu, Haozheng Luo, Hengli Li, Zhi Zhang, Zhaolu Kang, Kai-Wei Chang, Ying Nian Wu.
 </dd>
 <dd>
-  Accepted to <strong>AAAI 2026</strong> @ Foundations of Agentic Systems Theory
-</dd>
-<dd>
-  Accepted to <strong>AAAI 2026</strong> @ Personalization in the Era of Large Foundation Models
+  Submitted to <strong>COLM</strong>, 2026
 </dd>
 
-<dd>
-  Submitted to ACL Rolling Review, 2025
-</dd>
 
 </dl>
 
@@ -501,95 +495,13 @@ hspace="10" wspace="20" src="../images/RAAS.png">
 
 
 
-<dl>
-  <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/DLA.png">
-
-</dt>
-<dd>
-  <a href="https://openreview.net/forum?id=qim5DHTCy4&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FWorkshop%2FAABA4ET%2FAuthors%23your-submissions)" target="_blank" rel="noopener noreferrer">
-    <strong>
-      Diagnose, Localize, Align: A Full-Stack Framework for Reliable LLM Multi-Agent Systems under Instruction Conflicts
-    </strong>
-  </a>
-</dd>
-<dd>
-  <strong>Mengting Li&dagger;</strong>, Guancheng Wan&dagger;, Leixin Sun&dagger;
-</dd>
-<dd>
-  Accepted to <strong>NeurIPS 2025</strong> @ Socially Responsible and Trustworthy Foundation Models
-</dd>
-<dd>
-  Accepted to <strong>NeurIPS 2025</strong> @ LLM Persona Modeling
-</dd>
-
-<dd>
-  Submitted to ICLR, 2026
-</dd>
-
-</dl>
-
-<hr>
-
-
-
-
-<dl>
-  <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/TARE.png">
-
-</dt>
-  <dd><a href=""><strong> 
-Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE
-</strong></a></dd>
-<dd><strong>Mengting Li&dagger;</strong>, Guancheng Wan&dagger;, Lucheng Fu&dagger; </dd>
-<dd>Accepted to <strong>NeurIPS 2025</strong> @ NORA: The First Workshop on Knowledge Graphs & Agentic Systems Interplay</dd>
-<dd>Submitted to ICLR, 2026 </dd>
-</dl>
-
-<hr>
-
-
-<dl>
-  <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/DPOG.png">
-
-</dt>
-  <dd><a href=""><strong> 
-Graph Representation Learning as Policy Optimization from Implicit Preferences
-</strong></a></dd>
-<dd>Chunhe Wang, Eric Hanchen Jiang, Guancheng Wan, Jingbang Chen, Zitong Shi, Andrew Lizarraga, <strong>Mengting Li</strong>, Wenxiao Zhao, Maggie Cheng, Ying Nian Wu</dd>
-<dd> Submitted to AAAI, 2026</dd>
-</dl>
-
-
-<hr>
-
-
-
-
-<dl>
-  <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/Latent.png">
-</dt>
-  <dd><a href=""><strong> 
-Optimizing Strategy, Not Scripts: Latent Plan Control for LLM Agents
-</strong></a></dd>
-<dd>Eric Hanchen Jiang, Xuanang Li, Xiaoran Shang, Guancheng Wan, Hengli Li, <strong>Mengting Li</strong>, Zhaolu Kang, Xinfeng Li, Ying Nian Wu</dd>
-<dd>Submitted to ACL Rolling Review, 2025</dd>
-</dl>
-
-
-<hr>
-
-
 
 <dl>
   <dd><a href=""><strong> 
-AI-Driven Analysis of Mental Health Outcomes Using Cedars-Sinai Patient Data
+Evaluating Evidence of Sociodemographic Bias Within and Across Large Language Models In A Mental Health Support Setting
 </strong></a></dd>
-<dd><strong>Mengting Li</strong></dd>
-<dd> Internal research report at Cedars-Sinai Clinical Research Team, 2025</dd>
+<dd><strong>Levina Li</strong></dd>
+<dd> Internal research report at Cedars-Sinai Clinical Research Team, 2026</dd>
 </dl>
 
 
