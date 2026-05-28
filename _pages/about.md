@@ -274,7 +274,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi there! My name is Levina Li, a first year Ph.D. student at Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), where I am fortunate to be advided by [Prof.Siqiang Luo](https://scholar.google.com/citations?user=ZDwbMg4AAAAJ&hl=zh-CN) and [Prof. Han Yu](https://scholar.google.com/citations?user=eXgoTXMAAAAJ&hl=en). Prior to joining NTU, I received my Bachelor's degree at University of California, Los Angeles ([UCLA](https://www.ucla.edu/)), while I was doing research supervised by [Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=zh-CN)  and [Ying Nian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=zh-CN&oi=ao), working closely with [Eric Hanchen Jiang](https://ericjiang18.github.io/).
+Hi there! My name is Levina Li, a first year Ph.D. student at Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), where I am fortunate to be advided by [Prof.Siqiang Luo](https://scholar.google.com/citations?user=ZDwbMg4AAAAJ&hl=zh-CN) and [Prof. Han Yu](https://scholar.google.com/citations?user=eXgoTXMAAAAJ&hl=en). Prior to joining NTU, I received my Bachelor's degree at University of California, Los Angeles ([UCLA](https://www.ucla.edu/)), while I was doing research supervised by [Prof. Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=zh-CN)  and [Prof. Ying Nian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=zh-CN&oi=ao), working closely with [Eric Hanchen Jiang](https://ericjiang18.github.io/).
 
 
 
