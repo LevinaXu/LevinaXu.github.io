@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Levina Li's Homepage"
-description              : "levinali [at] g.ucla.edu"
+description              : "lime0071 [at] e.ntu.edu.sg"
 repository               : "LevinaXu/LevinaXu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,12 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Levina Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "UCLA Undergraduate"
-  location         :
+  bio              : "UCLA Undergraduate | NTU CCDS PhD Student"
+  location         : 
   employer         :
   pubmed           :
-  googlescholar    : ""
-  email            : "levinali@g.ucla.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=33R9798AAAAJ&hl=en"
+  email            : "lime0071@e.ntu.edu.sg"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -44,7 +44,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "levina-li-0a1a10221" # e.g., "linkedin username"
+  linkedin         : "levinamtli" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

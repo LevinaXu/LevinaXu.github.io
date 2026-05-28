@@ -274,7 +274,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My name is Levina Mengting Li, a senior student at University of California, Los Angeles ([UCLA](https://www.ucla.edu/)), while I’m doing research supervised by [Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=zh-CN)  and [Ying Nian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=zh-CN&oi=ao), working closely with [Eric Hanchen Jiang](https://ericjiang18.github.io/).
+Hi there! My name is Levina Li, a first year Ph.D. student at Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), where I am fortunate to be advided by [Prof.Siqiang Luo](https://scholar.google.com/citations?user=ZDwbMg4AAAAJ&hl=zh-CN) and [Prof. Han Yu](https://scholar.google.com/citations?user=eXgoTXMAAAAJ&hl=en). Prior to joining NTU, I received my Bachelor's degree at University of California, Los Angeles ([UCLA](https://www.ucla.edu/)), while I was doing research supervised by [Kai-Wei Chang](https://scholar.google.com/citations?user=fqDBtzYAAAAJ&hl=zh-CN)  and [Ying Nian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=zh-CN&oi=ao), working closely with [Eric Hanchen Jiang](https://ericjiang18.github.io/).
 
 
 
@@ -304,9 +304,9 @@ href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
 My current research interests focus on these key areas: 
 
 
-a) Large Language Models (LLM), LLM Agent, LLM Agentic Systems,  Large Reasoning Models
+a) World Models
 
-b) AI for Science/Healthcare
+b) AI for Science/Biology
 
 
 
@@ -422,7 +422,7 @@ hspace="10" wspace="20" src="../images/TARE.png">
 **&dagger; Equal Contribution (Co-first listed in random order)**   
 
 <div style="text-align: left; margin: 20px 0; font-size: 1.5em; color: #666;">
-2025 
+
 </div>
 
 <dl>
@@ -432,8 +432,8 @@ hspace="10" wspace="20" src="../images/GTD.png">
   <dd><a href="https://arxiv.org/abs/2510.07799"><strong>	
 GTD: Dynamic Generation of Multi LLM Agents Communication Topologies with Graph Diffusion Models
 </strong></a></dd>
-<dd><strong>Mengting Li&dagger;</strong>, Eric Hanchen Jiang&dagger;, Guancheng Wan&dagger;, Sophia Yin&dagger;,  Yuchen Wu, Xiao Liang, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu</dd>
-<dd> Submitted to ICLR, 2025</dd>
+<dd>Eric Hanchen Jiang&dagger;, <strong>Mengting Li&dagger;</strong>, Guancheng Wan;, Sophia Yin;,  Yuchen Wu, Xiao Liang, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu</dd>
+<dd> Accepted to ACL ARR, 2026</dd>
 </dl>
 
 
@@ -584,20 +584,6 @@ Optimizing Strategy, Not Scripts: Latent Plan Control for LLM Agents
 
 
 
-
-
-<dl>
-  <dd><a href=""><strong> 
-Attention-Based BiLSTM Framework for Speech Emotion Recognition Using MFCCs and Interpretability via NAOPC and Attention Weights
-</strong></a></dd>
-<dd><strong>Mengting Li</strong></dd>
-<dd> Submitted to Interspeech 2026</dd>
-</dl>
-
-
-<hr>
-
-
 <dl>
   <dd><a href=""><strong> 
 AI-Driven Analysis of Mental Health Outcomes Using Cedars-Sinai Patient Data
@@ -619,6 +605,9 @@ AI-Driven Analysis of Mental Health Outcomes Using Cedars-Sinai Patient Data
 
 # 🎖 Scholarships and Honors
 
+- *2026* <a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs">**Nanyang President's Graduate Scholarship** </a>  *NTU*
+
+
 - *2025* <a href="https://ucla.academicworks.com/opportunities/119805">**S & S Scholarship Fund** </a>  *UCLA*
 
 
@@ -639,7 +628,19 @@ AI-Driven Analysis of Mental Health Outcomes Using Cedars-Sinai Patient Data
 <div class="education-card">
   <div class="education-info">
     <div class="education-title">
-      <strong>Expected Graduation: Winter 2026</strong><br/>
+      <strong>Expected Graduation: Spring 2030</strong><br/>
+      Ph.D. Student, College of Computing and Data Science, Nanyang Technological University (NTU)
+    </div>
+  </div>
+  <div class="education-logo">
+    <img src="../images/NTU_logo.png" alt="NTU Logo" />
+  </div>
+</div>
+
+<div class="education-card">
+  <div class="education-info">
+    <div class="education-title">
+      <strong>Graduated: Winter 2026</strong><br/>
       Undergraduate, Statistics & Data Science, University of California, Los Angeles (UCLA)
     </div>
   </div>
